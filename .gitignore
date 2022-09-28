@@ -1,0 +1,6 @@
+*.DS_Store
+/dist-newstyle
+CHANGELOG.md
+api.db
+api.db-shm
+api.db-wal
